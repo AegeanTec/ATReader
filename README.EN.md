@@ -13,7 +13,7 @@
 [![Installs](https://img.shields.io/badge/Installs-1+-darkgreen)](https://github.com/AegeanTec/ATReader)
 [![Rating](https://img.shields.io/badge/Rating-★★★★★-brightgreen)](https://github.com/AegeanTec/ATReader)
 
-[简体中文](https://github.com/AegeanTec/ATReader/README.md) | English
+[简体中文](https://github.com/AegeanTec/ATReader/blob/main/README.md) | English
 
 </div>
 
@@ -80,7 +80,7 @@
 
 ## Change log
 
-- [Change log](https://github.com/AegeanTec/ATReader/CHANGELOG.md)
+- [Change log](https://github.com/AegeanTec/ATReader/blob/main/CHANGELOG.md)
 
 
 ## Issues
