@@ -9,11 +9,11 @@
 
 <h2>An e-book reader for VSCode extension</h2>
 
-[![Version](https://img.shields.io/badge/Version-v1.0.0-blue)](https://github.com/AegeanTec/ATReader)
-[![Installs](https://img.shields.io/badge/Installs-1+-darkgreen)](https://github.com/AegeanTec/ATReader)
+[![Version](https://img.shields.io/badge/Version-v1.1.2-blue)](https://github.com/AegeanTec/ATReader)
+[![Installs](https://img.shields.io/badge/Installs-500+-darkgreen)](https://github.com/AegeanTec/ATReader)
 [![Rating](https://img.shields.io/badge/Rating-★★★★★-brightgreen)](https://github.com/AegeanTec/ATReader)
 
-[简体中文](https://github.com/AegeanTec/ATReader/blob/main/README.md) | English
+[简体中文](./README.md) | English
 
 </div>
 
@@ -80,7 +80,7 @@
 
 ## Change log
 
-- [Change log](https://github.com/AegeanTec/ATReader/blob/main/CHANGELOG.md)
+- [Change log](./CHANGELOG.md)
 
 
 ## Issues

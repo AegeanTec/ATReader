@@ -1,8 +1,13 @@
 {
+  "websites": {
+    "https://doupo.935666.xyz": "斗破苍穹网"
+  },
   "books": [
     {
       "url": "https://doupo.935666.xyz/yaolaochuanqi/index.html",
-      "label": "斗破苍穹前传之药老传奇"
+      "label": "斗破苍穹前传之药老传奇",
+      "author": "天蚕土豆",
+      "children": []
     }
   ]
 }
